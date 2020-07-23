@@ -7,7 +7,6 @@
 - 📫 How to reach me: ... visva.rapalis@gmail.com
 - 😄 Pronouns: ... Visva or Visvaldas
 - ⚡ Fun fact: ... I'm not funny!
--->
 
 [![Visvaldas github stats](https://github-readme-stats.vercel.app/api?username=visva-dev&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visva-dev)](https://github.com/visva-dev/github-readme-stats)
