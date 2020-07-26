@@ -11,7 +11,7 @@
 - 😄 Pronouns: ... Visva or Visvaldas
 - ⚡ Fun fact: ... I'm not funny!
 
-<p align="right">
+<p align="left">
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
