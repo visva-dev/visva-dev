@@ -1,4 +1,3 @@
-<img width="35%" align="right" alt="Github" src="https://bit.ly/3jvLMET" />
 ### Hi there! I'm Visvaldas from Lithuania, I'm Full-Stack developer, working remotely. 👋
 - 🔭 I’m currently working on ... Microverse Bootcamp 
 - 🌱 I’m currently improving my skills on... Html, css, Ruby, Ruby on Rails, Databases, Javascript, React, Redux.
@@ -10,7 +9,7 @@
 - ⚡ Fun fact: ... I'm not funny!
 
 [![Visvaldas github stats](https://github-readme-stats.vercel.app/api?username=visva-dev&show_icons=true)](https://github.com/visva-dev/github-readme-stats)
-
+<img width="35%" align="right" alt="Github" src="https://bit.ly/3jvLMET" />
 
 <!--
 **visva-dev/visva-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
