@@ -4,12 +4,9 @@
 
 
 - 🔭 I’m currently working on... Microverse Bootcamp
-- 👯 I’m looking to collaborate on...
-- Full-Stack, Front-end, Back-end development.
+- 👯 I’m looking to collaborate on... Full-Stack, Front-end, Back-end development.
 - 🤔 I’m looking for help with ... Finding a job.
-- 💬 Ask me about ... Remote work,
-- i have a lot of experience working from home,
-- colaborating with others.
+- 💬 Ask me about ... Remote work, i have a lot of experience working from home, colaborating with others.
 - 📫 How to reach me: ... visva.rapalis@gmail.com
 - 😄 Pronouns: ... Visva or Visvaldas
 - ⚡ Fun fact: ... I'm not funny!
