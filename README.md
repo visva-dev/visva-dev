@@ -1,4 +1,3 @@
-<img width="55%" align="right" alt="Github" src="https://bit.ly/3jvLMET" />
 ### Hi there! I'm Visvaldas from Lithuania, I'm Full-Stack developer, working remotely. 👋
 - 🔭 I’m currently working on... Microverse Bootcamp
 - 👯 I’m looking to collaborate on...
