@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:visva,rapalis@gmail.com)
 [![Portfolio](https://img.shields.io/badge/visva--dev-Portfolio-brightgreen)](https://good-developer.com/)
 
-<img width="55%" align="right" alt="Github" src="https://bit.ly/3jvLMET" />
+<img width="55%" align="right" alt="Github" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
 
 
 - 🔭 I’m currently working on... Microverse Bootcamp
