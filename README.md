@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:visva,rapalis@gmail.com)
 [![Portfolio](https://img.shields.io/badge/visva--dev-Portfolio-brightgreen)](https://good-developer.com/)
 
-<img width="55%" align="right" alt="Github" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
+<img width="54%" align="right" alt="Github" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
 
 
 - 🔭 Studying Software Development at [Microverse](https://www.microverse.org/) <img alt="Microverse" title="Microverse" src="https://user-images.githubusercontent.com/59986562/88595658-ced4fe80-d039-11ea-97fd-f6351b7e8d00.png" height="28">&nbsp;&nbsp;&nbsp;&nbsp; 
