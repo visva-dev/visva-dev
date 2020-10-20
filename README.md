@@ -19,15 +19,14 @@
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <a href="https://github.com/visva-dev"><img width="50%" align="right" alt="coderpen's github stats" src="https://github-readme-stats.vercel.app/api?username=visva-dev&show_icons=true&hide_border=true" />
-    
-    
+  [![Visvaldas Rapalis github stats](https://github-readme-stats.vercel.app/api?username=visva-dev)](https://github.com/visva-dev/README.md)
+  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <br />
   <code><img width="9%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
