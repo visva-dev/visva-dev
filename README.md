@@ -20,8 +20,6 @@
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
     <a href="https://github.com/visva-dev"><img width="50%" align="right" alt="Visvaldas Rapalis github stats" src="https://github-readme-stats.vercel.app/api?username=visva-dev&show_icons=true&hide_border=true" />
-      
-  [![Visvaldas Rapalis github stats](https://github-readme-stats.vercel.app/api?username=visva-dev)](https://github.com/visva-dev/visva-dev/README.md)
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
