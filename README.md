@@ -8,12 +8,11 @@
 
 
 - 🔭 Studying Software Development at [Microverse](https://www.microverse.org/) <img alt="Microverse" title="Microverse" src="https://user-images.githubusercontent.com/59986562/88595658-ced4fe80-d039-11ea-97fd-f6351b7e8d00.png" height="28">&nbsp;&nbsp;&nbsp;&nbsp; 
-- 👯 I’m looking to collaborate on... Full-Stack, Front-end, Back-end development.
-- 🤔 I’m looking for help with ... Finding a job.
-- 💬 Ask me about ... Remote work, i have a lot of experience working from home, colaborating with others.
-- 📫 How to reach me: ... visva.rapalis@gmail.com
-- 😄 Pronouns: ... Visva or Visvaldas
-- ⚡ Fun fact: ... I'm not funny!
+- 👯 I’m looking to collaborate on: Full-Stack, Front-end, Back-end development.
+- 💬 Ask me about: Remote work. I have a lot of experience working from home and collaborating with others.
+- 📫 How to reach me: visva.rapalis@gmail.com
+- 😄 Pronouns: Visva or Visvaldas
+- ⚡ Fun fact: I'm not funny!
 
 <p>
   <!-- Your languages and tools. Be careful with the alignment. 
