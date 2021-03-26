@@ -6,11 +6,10 @@
 
 <img width="54%" align="right" alt="Github" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
 
-
-- 🔭 Studying Software Development at [Microverse](https://www.microverse.org/) <img alt="Microverse" title="Microverse" src="https://user-images.githubusercontent.com/59986562/88595658-ced4fe80-d039-11ea-97fd-f6351b7e8d00.png" height="28">&nbsp;&nbsp;&nbsp;&nbsp; 
 - 👯 I’m looking to collaborate on: Full-Stack, Front-end, Back-end development.
 - 💬 Ask me about: Remote work. I have a lot of experience working from home and collaborating with others.
 - 📫 How to reach me: visva.rapalis@gmail.com
+- 🔥 My resume: <a href="https://visva.tech">visva.tech</a>
 - ⚡ Fun fact: I'm not funny!
 
 <p>
