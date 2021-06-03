@@ -1,10 +1,12 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=My+Website...+Click+Here)](https://www.visva.tech/)
+
 ### Hi there! I'm Visvaldas from Lithuania. I'm a Full-Stack developer, working remotely. 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/visvaldas-rapalis/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:visva,rapalis@gmail.com)
 [![Portfolio](https://img.shields.io/badge/visva--dev-Portfolio-brightgreen)](https://www.visva.tech/)
 
-<img width="54%" align="right" alt="Github" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
+
 
 - 👯 I’m looking to collaborate on: Full-Stack, Front-end, Back-end development.
 - 💬 Ask me about: Remote work. I have a lot of experience working from home and collaborating with others.
