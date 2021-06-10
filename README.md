@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=My+Website...+Click+Here)](https://www.visva.tech/)
 
-### Hi there! I'm Visvaldas from Lithuania. I'm a Full-Stack developer, working remotely. 👋
+### Hi there! I'm Visvaldas from Lithuania. I'm a Full-Stack developer. 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/visvaldas-rapalis/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:visva.rapalis@gmail.com)
@@ -15,9 +15,6 @@
 - ⚡ Fun fact: I'm not funny!
 
 <p>
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
     <a href="https://github.com/visva-dev"><img width="50%" align="right" alt="Visvaldas Rapalis github stats" src="https://github-readme-stats.vercel.app/api?username=visva-dev&show_icons=true&hide_border=true" />
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code>
