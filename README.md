@@ -3,7 +3,7 @@
 ### Hi there! I'm Visvaldas from Lithuania. I'm a Full-Stack developer, working remotely. 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/visvaldas-rapalis/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:visva,rapalis@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:visva.rapalis@gmail.com)
 [![Portfolio](https://img.shields.io/badge/visva--dev-Portfolio-brightgreen)](https://www.visva.tech/)
 
 
