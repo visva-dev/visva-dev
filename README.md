@@ -11,7 +11,6 @@
 - 👯 I’m looking to collaborate on: Full-Stack, Front-end, Back-end development.
 - 💬 Ask me about: Remote work. I have a lot of experience working from home and collaborating with others.
 - 📫 How to reach me: visva.rapalis@gmail.com
-- 🔥 My resume: <a href="https://www.visva.tech/" target="_blank">visva.tech</a>
 - ⚡ Fun fact: I'm not funny!
 
 <p>
